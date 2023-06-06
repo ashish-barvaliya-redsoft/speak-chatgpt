@@ -7,6 +7,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "eventsource-parser": "^1.0.0",
     "next": "latest",
     "openai": "^3.2.1",
     "react": "^18.2.0",
